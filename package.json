@@ -1,0 +1,10 @@
+{
+  "name": "pixijs-getting-started",
+  "version": "1.0.0",
+  "description": "First pixijs test.",
+  "main": "index.js",
+  "repository": "https://github.com/Messhias/pixijs-get-started.git",
+  "author": "Fabio William Conceição <messhias@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
